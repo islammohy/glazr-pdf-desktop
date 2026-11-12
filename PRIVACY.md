@@ -8,6 +8,7 @@ GitHub, the Microsoft Store or links on igy-apps.com. Publisher: IGY Apps (igy-a
 The app merges, splits, compresses, converts and protects PDFs and pictures on your computer.
 Your files, their contents, file names, folders and passwords are never uploaded, sent or
 shared. Passwords you type are used only to open or protect the file and are never stored.
+Signatures you choose to remember are stored only in your user folder on this computer.
 
 ## What the app sends when online
 
@@ -60,7 +61,7 @@ on this page with a new date.
 
 **ملفاتك لا تغادر جهازك.** البرنامج يدمج ملفات PDF والصور ويقسّمها ويضغطها ويحوّلها ويحميها على جهازك،
 ولا يرفع أو يرسل أي ملف أو محتواه أو اسمه أو مجلده أو كلمة مروره. كلمات المرور التي تكتبها تُستخدم
-لفتح الملف أو حمايته فقط ولا تُحفظ.
+لفتح الملف أو حمايته فقط ولا تُحفظ. والتوقيعات التي تختار حفظها تبقى في مجلد المستخدم على هذا الكمبيوتر فقط.
 
 **مع الإنترنت** تطلب النافذة من igy-apps.com إعلانًا واحدًا لأسفل النافذة ورقم أحدث إصدار،
 ويُرسل فقط: اسم البرنامج، والنظام (ويندوز أو ماك)، ولغة البرنامج، ومصدر التثبيت (متجر أو تنزيل

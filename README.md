@@ -2,12 +2,16 @@
 
 # Glazr PDF
 
-Free PDF tools for **macOS** and **Windows** by [IGY Apps](https://igy-apps.com).
+Free PDF editor and tools for **macOS** and **Windows** by [IGY Apps](https://igy-apps.com).
 
+- **Edit** (new in 1.1): add text (Arabic too) and change existing lines, highlight, underline and
+  strike, draw, shapes, notes, pictures and stamps; **sign** (draw, type or a picture); **fill
+  forms**; **redact** private information for real (it leaves the file); watermark and page numbers.
 - **Merge** PDFs and pictures into one PDF, in the order you choose (drag to reorder).
 - **Split** a PDF into single pages, every N pages or the ranges you type, or keep only the pages
   you need.
-- **Pages:** see every page as a thumbnail, then reorder, turn or delete pages and save a new PDF.
+- **Pages:** see every page as a thumbnail, then reorder, turn, delete, duplicate or crop pages,
+  insert blank pages or pages from another PDF, and save a new PDF.
 - **Compress** PDFs for WhatsApp and email, with the size before and after; when a file can't get
   smaller, the original is kept.
 - **Pictures ↔ PDF:** photos and scans to one PDF (page size, orientation, margins), or PDF pages
@@ -36,6 +40,7 @@ On macOS the command line is the program inside the app:
 
 ```bash
 "/Applications/Glazr PDF.app/Contents/MacOS/Glazr PDF" merge ~/Documents/a.pdf ~/Documents/b.pdf --json
+"/Applications/Glazr PDF.app/Contents/MacOS/Glazr PDF" add-text ~/Documents/a.pdf --text "Approved" --position top-right --json
 ```
 
 This repository holds downloads only. The application's source code is not public.
@@ -63,8 +68,11 @@ private documents.
 
 # Glazr PDF بالعربية
 
-أدوات PDF مجانية على **ماك** و**ويندوز** من [IGY Apps](https://igy-apps.com).
+محرر PDF وأدوات مجانية على **ماك** و**ويندوز** من [IGY Apps](https://igy-apps.com).
 
+- **التحرير** (جديد في 1.1): أضف نصًا بالعربية وعدّل السطور الموجودة، وظلّل وسطّر واشطب، وارسم وأضف
+  أشكالًا وملاحظات وصورًا وأختامًا، **ووقّع** بالرسم أو الكتابة أو بصورة، **واملأ النماذج**، **واحجب**
+  المعلومات الخاصة حجبًا حقيقيًا، وأضف علامة مائية وأرقام صفحات.
 - **دمج** ملفات PDF والصور في ملف PDF واحد بالترتيب الذي تختاره (رتّبها بالسحب).
 - **تقسيم** ملف PDF إلى صفحات منفردة أو كل عدد من الصفحات أو نطاقات تكتبها، أو الاحتفاظ بالصفحات
   التي تحتاجها فقط.
