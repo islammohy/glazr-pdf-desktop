@@ -1,0 +1,25 @@
+Glazr PDF
+Copyright (c) 2026 IGY Apps. All rights reserved.
+
+This software (the application code, interface, texts and artwork of Glazr PDF)
+is proprietary. You may install and use it on computers you own or control. You may not
+sell, sublicense, modify, decompile or redistribute it, except as the law expressly
+allows, and you may not remove or change its copyright notices or its banner.
+
+The application is free of charge and may be used for any purpose, including
+commercial work. Download it only from the official sources:
+github.com/islammohy/glazr-pdf-desktop, the Microsoft Store, or links on igy-apps.com.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL IGY APPS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE. The application
+never changes or deletes your original files; still, check new files before deleting any
+original yourself.
+
+Third-party components keep their own licenses; they are listed in
+THIRD_PARTY_NOTICES.txt and their full texts are in the "licenses" folder. In
+particular the Qt libraries are under the GNU LGPL 3.0 and are shipped as separate shared
+libraries. Nothing in this license limits your rights under the LGPL for those parts,
+including replacing them with modified versions and the reverse engineering needed to debug
+such modifications.
