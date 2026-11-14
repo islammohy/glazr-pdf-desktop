@@ -7,7 +7,7 @@ Free PDF editor and tools for **macOS** and **Windows** by [IGY Apps](https://ig
 - **Edit** (new in 1.1): add text (Arabic too) and change existing lines, highlight, underline and
   strike, draw, shapes, notes, pictures and stamps; **sign** (draw, type or a picture); **fill
   forms**; **redact** private information for real (it leaves the file); watermark and page numbers.
-- **Merge** PDFs and pictures into one PDF, in the order you choose (drag to reorder).
+- **Merge** PDFs and pictures into one PDF, in the order you choose (drag them, or use the Move up/down buttons).
 - **Split** a PDF into single pages, every N pages or the ranges you type, or keep only the pages
   you need.
 - **Pages:** see every page as a thumbnail, then reorder, turn, delete, duplicate or crop pages,
@@ -73,7 +73,7 @@ private documents.
 - **التحرير** (جديد في 1.1): أضف نصًا بالعربية وعدّل السطور الموجودة، وظلّل وسطّر واشطب، وارسم وأضف
   أشكالًا وملاحظات وصورًا وأختامًا، **ووقّع** بالرسم أو الكتابة أو بصورة، **واملأ النماذج**، **واحجب**
   المعلومات الخاصة حجبًا حقيقيًا، وأضف علامة مائية وأرقام صفحات.
-- **دمج** ملفات PDF والصور في ملف PDF واحد بالترتيب الذي تختاره (رتّبها بالسحب).
+- **دمج** ملفات PDF والصور في ملف PDF واحد بالترتيب الذي تختاره (رتّبها بالسحب أو بأزرار التحريك لأعلى ولأسفل).
 - **تقسيم** ملف PDF إلى صفحات منفردة أو كل عدد من الصفحات أو نطاقات تكتبها، أو الاحتفاظ بالصفحات
   التي تحتاجها فقط.
 - **الصفحات:** اعرض كل الصفحات صغيرة، ثم رتّبها أو دوّرها أو احذف بعضها واحفظ ملفًا جديدًا.
