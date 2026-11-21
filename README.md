@@ -9,8 +9,8 @@ Free PDF editor and tools for **macOS** and **Windows** by [IGY Apps](https://ig
   forms**; **redact** private information for real (it leaves the file); watermark and page numbers.
 - **Merge** PDFs and pictures into one PDF, in the order you choose (drag them, or use the Move up/down buttons).
 - **Split** a PDF into single pages, every N pages or the ranges you type, or keep only the pages
-  you need.
-- **Pages:** see every page as a thumbnail, then reorder, turn, delete, duplicate or crop pages,
+  you need; a preview shows each new PDF's pages on a card of its own colour.
+- **Arrange:** see every page as a thumbnail (zoom in or out), then drag to reorder, turn, delete, duplicate or crop pages,
   insert blank pages or pages from another PDF, and save a new PDF.
 - **Compress** PDFs for WhatsApp and email, with the size before and after; when a file can't get
   smaller, the original is kept.
@@ -75,8 +75,8 @@ private documents.
   المعلومات الخاصة حجبًا حقيقيًا، وأضف علامة مائية وأرقام صفحات.
 - **دمج** ملفات PDF والصور في ملف PDF واحد بالترتيب الذي تختاره (رتّبها بالسحب أو بأزرار التحريك لأعلى ولأسفل).
 - **تقسيم** ملف PDF إلى صفحات منفردة أو كل عدد من الصفحات أو نطاقات تكتبها، أو الاحتفاظ بالصفحات
-  التي تحتاجها فقط.
-- **الصفحات:** اعرض كل الصفحات صغيرة، ثم رتّبها أو دوّرها أو احذف بعضها واحفظ ملفًا جديدًا.
+  التي تحتاجها فقط، مع معاينة تعرض صفحات كل ملف جديد على بطاقة بلون خاص.
+- **ترتيب الصفحات:** اعرض كل الصفحات صغيرة (مع التكبير والتصغير)، ثم رتّبها بالسحب أو دوّرها أو احذف بعضها واحفظ ملفًا جديدًا.
 - **ضغط** ملفات PDF لواتساب والبريد مع الحجم قبل وبعد، وإن لم يصغر الملف يبقى الأصل.
 - **صور ↔ PDF:** الصور والمستندات الممسوحة إلى ملف PDF واحد، أو صفحات PDF إلى صور JPG أو PNG.
 - **كلمة المرور:** احمِ نسخة بكلمة مرور بتشفير AES-256، أو احفظ نسخة دون كلمة مرور تعرفها. لا
